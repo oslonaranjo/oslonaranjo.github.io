@@ -12,7 +12,7 @@
       <ows:Keyword>colombia</ows:Keyword>
     </ows:Keywords>
     <ows:Fees>Ninguno</ows:Fees>
-    <ows:AccessConstraints>No se permite la descarga masiva de datos</ows:AccessConstraints>
+    <ows:AccessConstraints>No se permite la descarga masiva de datos.</ows:AccessConstraints>
   </ows:ServiceIdentification>
   <ows:ServiceProvider>
     <ows:ProviderName>Samuel Mesa</ows:ProviderName>
